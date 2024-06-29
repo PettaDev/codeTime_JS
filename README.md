@@ -1,4 +1,4 @@
-# Hora de Codar | Atividade de Lógica em Javascript
+# Hora de Codar | Javascript
 
 
 <br/>
